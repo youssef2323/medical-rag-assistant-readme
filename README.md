@@ -16,9 +16,7 @@ An AI assistant that answers medical questions with **Retrieval‑Augmented Gene
 
 ## 2) Demo & screenshots
 
-* **Short demo video:** *add link*
-* **Screenshots:** `/assets/` (home, ask flow, sources panel, failure cases)
-* **Live demo (optional):** *add link*
+* **Short demo video:** (https://youtu.be/rIIZ3Cw3Fl4)
 
 > Demo excludes any restricted/paid datasets and PHI/PII.
 
