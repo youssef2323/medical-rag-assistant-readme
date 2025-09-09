@@ -143,7 +143,7 @@ Email **\yi559668@gmail.com** with name, affiliation, intended use. Read‑only 
 
 ---
 
-## 13) Citation
+## 12) Citation
 
 ```
 @misc{medical_rag_assistant_2025,
@@ -156,7 +156,7 @@ Email **\yi559668@gmail.com** with name, affiliation, intended use. Read‑only 
 
 ---
 
-## 14) License
+## 13) License
 
 Copyright (c) 2025 Youssef Ismail. **All Rights Reserved.**
 
