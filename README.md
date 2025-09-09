@@ -148,9 +148,9 @@ Email **\yi559668@gmail.com** with name, affiliation, intended use. Read‑only 
 ```
 @misc{medical_rag_assistant_2025,
   title  = {Medical RAG Assistant: Domain‑specialized RAG for Medical QA},
-  author = {Youssef Ismail and Contributors},
+  author = {Youssef Ismail Riad},
   year   = {2025},
-  url    = {https://github.com/<you>/medical-rag-assistant-case-study}
+  url    = {https://github.com/youssef2323/medical-rag-assistant-readme}
 }
 ```
 
