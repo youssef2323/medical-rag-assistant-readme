@@ -24,7 +24,8 @@ An AI assistant that answers medical questions with **Retrieval‑Augmented Gene
 
 ## 3) Problem & context
 
-LLMs hallucinate—dangerous in medical QA. We specialize a RAG pipeline to the **medical domain**, forcing **evidence‑grounded** answers with a transparent sources panel, while improving **retrieval quality, latency, and evaluation fairness**.
+LLMs hallucinate—dangerous in medical QA. We specialize a RAG pipeline to the **medical domain**, aiming to reduce hallucination via strong retrieval (hybrid + reranking) and careful context constraints, while improving **retrieval quality, latency, and evaluation fairness**.
+
 
 ---
 
@@ -68,7 +69,6 @@ LLMs hallucinate—dangerous in medical QA. We specialize a RAG pipeline to the 
 
 ## 6) Features
 
-* 📚 Evidence‑grounded answers with a 'Sources used' panel
 * 🔎 Hybrid retrieval + RRF fusion + cross‑encoder rerank
 * ✂️ Context compression & semantic dedup → lower tokens, higher precision
 * 💬 Model routing (OpenAI ↔ Groq) for accuracy/speed trade‑offs
@@ -117,16 +117,9 @@ LLMs hallucinate—dangerous in medical QA. We specialize a RAG pipeline to the 
 * **Compression & dedup:** fewer, cleaner tokens with stable accuracy.
 * **Model choice:** OpenAI > Groq on accuracy; Groq wins some speed tests.
 
----
 
-## 9) How to try (no public code)
 
-* **Watch the demo video:** *add link here*
-* **Screenshots:** see `/assets/`
-* **Live demo:** available **on request** (to control API costs). Email me and I’ll enable temporary access.
-* **Full source:** private; see Section 12 to request read-only access.
-
-## 10) Risks, ethics, and limitations
+## 9) Risks, ethics, and limitations
 
 * **Not a medical device**; educational/research only.
 * **No patient advice**; always consult licensed professionals.
@@ -134,7 +127,7 @@ LLMs hallucinate—dangerous in medical QA. We specialize a RAG pipeline to the 
 
 ---
 
-## 11) Roadmap
+## 10) Roadmap
 
 * Inline citation markers in UI (optional)
 * Live **LLM‑as‑a‑judge** selector for Ensemble
@@ -144,7 +137,7 @@ LLMs hallucinate—dangerous in medical QA. We specialize a RAG pipeline to the 
 
 ---
 
-## 12) Requesting the code
+## 11) Requesting the code
 
 Email **\yi559668@gmail.com** with name, affiliation, intended use. Read‑only review access can be granted on request.
 
