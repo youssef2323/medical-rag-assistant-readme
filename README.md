@@ -1,12 +1,13 @@
 # Medical RAG Assistant — Case Study (Public)
 
-> **Status:** Case-study repo (readme + assets). **Full source is private** to protect IP and dataset licenses. For access, please contact: **\[your email]**.
+> **Status:** Case-study repo (readme + assets). **Full source is private** to protect IP and dataset licenses. For access, please contact: **\[yi559668@gmail.com]**.
 
 ---
 
 ## 1) One‑line value
 
-An AI assistant that answers medical questions with **Retrieval‑Augmented Generation (RAG)**, optimized for **evidence‑grounded**, **low‑hallucination** responses.
+An AI assistant that answers medical questions with **Retrieval‑Augmented Generation (RAG)**, optimized for ** ideal-answers
+** **low‑hallucination** responses.
 
 * **Domain:** Medical (clinical/biomedical literature)
 * **Stack:** LangChain • **MedEmbed-large-v0.1** (HF embeddings) • **Cross-Encoder/ms-marco-MiniLM-L12-v2** (reranker) • **FAISS / Qdrant / Milvus** • Python • Streamlit/Flask • **OpenAI GPT‑4.1** (primary) • **Groq Llama‑3‑8B‑8192** (fallback/speed)
