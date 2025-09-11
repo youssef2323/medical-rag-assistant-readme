@@ -14,13 +14,23 @@ An AI assistant that answers medical questions with **Retrieval‑Augmented Gene
 
 ---
 
-## 2) Demo & screenshots
+## 2) Demo & Screenshots
 
-* **Short demo video:** (https://youtu.be/rIIZ3Cw3Fl4)
-
-
+* **Short demo video:** [Watch on YouTube](https://youtu.be/2Kx2Rj8KPs8)
 
 ---
+
+### Screenshots
+
+![Home UI](assets/home_ui.png)  
+*Home page of the Streamlit app.*
+
+![Question Example](assets/qa_question.png)  
+*User asks a medical question.*
+
+![Answer Example](assets/qa_answer.png)  
+*System provides an evidence-based answer with sources.*
+
 
 ## 3) Problem & context
 
