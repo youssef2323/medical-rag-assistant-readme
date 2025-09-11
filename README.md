@@ -17,7 +17,7 @@ An AI assistant that answers medical questions with **Retrieval‑Augmented Gene
 # 🎥 2) Demo & Screenshots
 
 
-* **Short demo video:** [Watch on YouTube](https://youtu.be/2Kx2Rj8KPs8)
+### 🎬 Short Demo Video: [Watch on YouTube](https://youtu.be/2Kx2Rj8KPs8)
 
 ---
 
