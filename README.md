@@ -26,10 +26,13 @@ An AI assistant that answers medical questions with **Retrieval‑Augmented Gene
 *Home page of the Streamlit app.*
 
 ![Q&A Example 1](assets/qa_example1.png)  
-*User asks a simple medical question and receives an answer with sources.*
+*example1*
 
 ![Q&A Example 2](assets/qa_example2.png)  
-*System handling a more complex question with detailed evidence-based response.*
+*example2*
+
+![Q&A Example 2](assets/qa_example3.png)  
+*example3*
 
 
 ## 3) Problem & context
